@@ -1,3 +1,5 @@
+<img src="https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/13119060_711579458984884_8231374168656646319_n.jpg?oh=cbfb32aaf449b5d19f9dd3cbe500bcd1&oe=57CA2B67" width="100%">
+
 # MEAN STACK BOOTCAMP
 
 O MEAN Stack Bootcamp é um evento gratuito educacional com o foco em inovação.
